@@ -189,11 +189,11 @@ def dos_timebomb():
 
 def tampilan_atas():
     print ("===================================================")
-    print ("#                                                #")
+    print ("#                                                 #")
     print ("#            CRAZY SHADOW versi 1.0b              #")
-    print ("#            ----------------------              #")
-    print ("#         created by @fauzil._ihsn, 22-6-2024        #")
-    print ("#                                                #")
+    print ("#             ----------------------              #")
+    print ("#       created by @fauzil._ihsn, 22-6-2024       #")
+    print ("#                                                 #")
     print ("===================================================")
 
 def menu():
